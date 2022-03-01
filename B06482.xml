@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memorial delivered to His Majesty (July 21/31 1664.) From the Lord Van-Gohg, Ambassador from the States General of the United Provinces. / Translated into English. With the answer which His sacred Majesty returned thereunto.</title>
+            <author>Gogh, Michiel van.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06482</idno>
+            <idno type="STC">Wing V91A</idno>
+            <idno type="STC">ESTC R185925</idno>
+            <idno type="EEBO-CITATION">52529058</idno>
+            <idno type="OCLC">ocm 52529058</idno>
+            <idno type="VID">179190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179190)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memorial delivered to His Majesty (July 21/31 1664.) From the Lord Van-Gohg, Ambassador from the States General of the United Provinces. / Translated into English. With the answer which His sacred Majesty returned thereunto.</title>
+                  <author>Gogh, Michiel van.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II) His Majesties answer to the fore-going memorial.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>United Provinces of the Netherlands. Staten General.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Re-printed in the year, 1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial letter.</note>
+                  <note>Lord Van Gogh = Michiel van Gogh.</note>
+                  <note>Imperfect: tightly bound, cropped with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1664-1667 --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179190:1" rendition="simple:additions"/>
+            <p>A MEMORIAL Delivered to His MAJESTY (July 21/31 1664.) From the Lord <hi>VAN-GOHG,</hi> Ambaſſador from the STATES GENERAL of the UNITED PROVINCES.</p>
+            <p>Tranſlated into Engliſh.</p>
+            <p>With the ANSWER Which His Sacred MAJESTY returned thereunto.</p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the year<g ref="char:punc">▪</g> 1664</p>
+         </div>
+      </front>
+      <body>
+         <div type="memorial">
+            <pb facs="tcp:179190:2"/>
+            <pb n="3" facs="tcp:179190:2"/>
+            <head>THE MEMORIAL OF THE DUTCH AMBASSADOR TO HIS MAJESTY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He under-written Ambaſſador of the States General of the United <hi>Netherlands,</hi> Your good Friends and Allies, having had the honour of ſeveral Audiences with Your <hi>Majeſty,</hi> and therein made known to You ſuch Orders as he hath from time to time received from his Maſters, upon occaſion of, and concerning divers Affairs, and eſpecially theſe following: To wit,</p>
+            <p>Seing it is underſtood and perceived, that Veſſels of War are fitting and preparing on both ſides, which if they go forth to Sea and meet there together, might by ſome miſ<g ref="char:EOLhyphen"/>underſtanding, fall foul upon one another; Your <hi>Majeſty</hi>
+               <pb n="4" facs="tcp:179190:3"/>would therefore be pleaſed to keep back Your Fleet, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuffer it to go to Sea; as their Lordſhips offer on their p<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to do; the whole intent and deſign tending only to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſafety of both parties, and the prevention of the foreſai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſiniſter encounters.</p>
+            <p>Moreover, whereas their Lordſhips have been informed that Captain <hi>Holmes,</hi> with the Veſſels under his command hath now again (as heretofore) done very great and enor<g ref="char:EOLhyphen"/>mous injuries to the Netherlandiſh Company of the <hi>Weſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Indies,</hi> by taking divers of their Veſſels upon the Coaſt o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Africk,</hi> as alſo by making himſelf Maſter of ſome Place<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Forts belonging unto them, and namely amongſt othe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Capo Verde,</hi> &amp;c. which is directly contrary, not onl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Treaty laſt concluded between Your <hi>Majeſty</hi> and th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> States of the United Provinces, but alſo to mutual amit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and good neighbourhood: The ſaid Ambaſſador did there<g ref="char:EOLhyphen"/>fore, in the name of his Superiors, demand reſtitution o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame, and that reparation might be made of the damage<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and intereſts which the ſaid Company and other Subject<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their Lordſhips who were concerned, have ſuffered there<g ref="char:EOLhyphen"/>by; as alſo, that the like proceedings and violences might be prevented for the future by an expreſs Order.</p>
+            <p>In the third place, that their Lordſhips, being from day to day confirmed by certain Intelligence coming from that Coaſt, that the foreſaid action of Captain <hi>Holmes</hi> had not only been effected in the manner above-ſpecified, but alſo that he was intended to carry on his deſign further, by making incurſions and ſeiſing upon all the Coaſt, and that for his better ſucceſs therein, he expected a notable ſupply of Ships from <hi>England,</hi> as the whole matter may be proved by the teſtimony and depoſitions of credible per<g ref="char:EOLhyphen"/>ſons
+<pb n="5" facs="tcp:179190:3"/>newly come from thence: Which actions being with<g ref="char:EOLhyphen"/>out right, reaſon and equity, and which conſequently can<g ref="char:EOLhyphen"/>not be endured, nor looked upon with a good eye, Your <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> was entreated that it might be Your good Pleaſure to command as well the ſaid Captain <hi>Holmes,</hi> as others who were in that engagement, or are held to have been employ<g ref="char:EOLhyphen"/>ed therein, not only to reſtore the foreſaid Forts and Veſ<g ref="char:EOLhyphen"/>ſels ſo taken, and to repair the damages thereby ſuffered (as reaſon requires) but alſo that the Ships which by report are now ready to ſet Sail, or which may be fitting for that end, may, by Your <hi>Majeſties</hi> expreſs Command, be prohi<g ref="char:EOLhyphen"/>bited and charged not to do or cauſe any other injury or damage to the ſaid Company; or to any other the Subjects of the United Provinces.</p>
+            <p>Fourthly, Foraſmuch as the poor and afflicted reformed Churches in the vallies of <hi>Piedmont</hi> have repreſented, that after the agreement made with his Royal Highneſs the Duke of <hi>Savoy</hi> ſome while ſince, they are again overwhelmed and ruined by exactions and charges required of them to defray the expenſes of the Army which the ſaid Duke had commanded againſt them, which charges amounted to ſo high a ſum, that it was impoſsible for them to make it up, for the reaſons more at large alledged in their Remon<g ref="char:EOLhyphen"/>ſtrance; Therefore they have deſired the interceſsion of the States General with Your <hi>Majeſty,</hi> that Your Ambaſ<g ref="char:EOLhyphen"/>ſador in the Court of <hi>France</hi> may have order to procure from his moſt Chriſtian Majeſty (as being Mediator be<g ref="char:EOLhyphen"/>tween his ſaid Royal Highneſs and them) as much favour and comfort to thoſe poor afflicted Churches as can poſsibly by any means be obtained.</p>
+            <p>And finally, conſidering that the Veſſels coming from the United Provinces into the Rivers, Streams and Roads
+<pb n="6" facs="tcp:179190:4"/>of this Kingdom, are ſtopped there under pretence that there be Perſons and Commodities on board which come from places infected with the Plague, or at leaſt ſuſpected to be ſo, by which means the freedom of Trade and Paſſage is obſtructed and diſturbed, to the great prejudice of the inhabitants of both Nations: The ſaid Ambaſſador there<g ref="char:EOLhyphen"/>fore inſiſted thereupon, that the ſame might be remedied, or at leaſt that the ſtrictneſs of thoſe Orders might be miti<g ref="char:EOLhyphen"/>gated in ſuch meaſure as in reaſon ſhall be found conveni<g ref="char:EOLhyphen"/>ent; And that the rather, becauſe, by the mercy of God, all the Provinces in general are not infected with the Contagion.</p>
+            <p>To all that is aboveſaid, Your <hi>Majeſty</hi> hath been pleaſed to anſwer in effect; to wit, upon the firſt point, touching keeping of the Fleet from going to Sea, That the numbers which were fitted and prepared on Your <hi>Majeſties</hi> ſide being no way extraordinary, but only for common and cuſtomary uſe, and without deſign of bringing any damage or incon<g ref="char:EOLhyphen"/>venience upon the inhabitants of the United Provinces, the ſaid Veſſels could not be kept from going to Sea, be<g ref="char:EOLhyphen"/>cauſe Your <hi>Majeſties</hi> Honour was engaged therein; Never<g ref="char:EOLhyphen"/>theleſs, that You would give ſuch Orders to the Chief Com<g ref="char:EOLhyphen"/>mander of Your ſaid Fleet, that their Lordſhips ſhall have no cauſe to apprehend any ſiniſter encounters from it.</p>
+            <p>As to the ſecond, touching the action of Captain <hi>Holmes;</hi> Your <hi>Majeſty</hi> thought good to anſwer thereunto, That You had received no information of it, and that having given no Order for his ſo doing, You would cauſe reparati<g ref="char:EOLhyphen"/>on to be made, if the matter proved to be true, and that the ſaid Captain <hi>Holmes</hi> ſhould be puniſhed according as the caſe ſhould require: Nevertheleſs adding thereunto afterwards at another Audience, that the <hi>Weſt-India</hi>
+               <pb n="7" facs="tcp:179190:4"/>Company had likewiſe done much damage to Your <hi>Majeſties</hi> Subjects upon the ſaid Coaſt, pretending to be Maſters thereof to themſelves alone; which thing ought to be con<g ref="char:EOLhyphen"/>ſidered alſo in its proper ſeaſon, judging it unreaſonable and unjuſt that the Trade of the <hi>Engliſh</hi> upon that Coaſt ſhould continually be diſturbed and hindred.</p>
+            <p>And as to the third, Your <hi>Majeſty</hi> was pleaſed to ſay as before, That You had received no information of <hi>Holmes</hi> his actions in thoſe parts; and for ſo much as concerned the Ships which are ready to ſet Sail towards the Coaſt of <hi>Africk,</hi> that they were not in a condition to make any attempt there, being only Merchant-men, unto which there was added but one Man of War for their Convoy.</p>
+            <p>For what regards the poor <hi>Piemontoies,</hi> That You were ſenſibly touched with the miſerable condition of thoſe Churches and People, and for that reaſon Your <hi>Majeſty</hi> had already given Order to Your Ambaſſador in <hi>France</hi> to con<g ref="char:EOLhyphen"/>tribute unto their relief and comfort in Your Name; But for<g ref="char:EOLhyphen"/>aſmuch as at preſent there occur ſome new difficulties con<g ref="char:EOLhyphen"/>cerning the ſaid Churches, Your <hi>Majeſty</hi> would adviſe more particularly thereupon.</p>
+            <p>And laſtly, concerning the Merchants Ships which come from the United Provinces into this Kingdom, and are ſtopped without permiſsion to Land any where, becauſe they are ſuſpected to come from ſome place infected with the ſickneſs, there being no diſtinction made between Pro<g ref="char:EOLhyphen"/>vinces and Cities really afflicted with the ſaid Conta<g ref="char:EOLhyphen"/>gion, and thoſe which are not ſo at all; That Your <hi>Maje<g ref="char:EOLhyphen"/>ſty</hi> having an extraordinary apprehenſion of that diſeaſe, had great reaſon to uſe all poſsible precaution againſt it;
+<pb n="8" facs="tcp:179190:5"/>Notwithſtanding, that the buſineſs ſhould alſo be thought upon more fully.</p>
+            <p>All which points aboveſaid having been repeated by the ſaid Ambaſſador at his laſt Audience, and inſtance there<g ref="char:EOLhyphen"/>upon made, that according to their Lordſhips deſires Your <hi>Majeſty</hi> would be pleaſed to explain Your Self in Writing, to put the minds of his Superiors out of perplexity and diſ<g ref="char:EOLhyphen"/>quiet; and Your <hi>Majeſty</hi> having to that purpoſe deſired, that all ſhould be compriſed in a <hi>Memorial</hi> for an Anſwer to be given thereunto in Writing: The ſaid <hi>Memorial</hi> (May it pleaſe Your <hi>Majeſty</hi>) is here moſt humbly pre<g ref="char:EOLhyphen"/>ſented, with like prayer, that ſuch Order may be taken therein, as that by a favourable anſwer (which the ſaid Ambaſſador expects from Your <hi>Majeſty</hi>) he may be enabled to give his Maſters content.</p>
+            <closer>
+               <signed>M. Van-Gogh.</signed>
+               <dateline>From <hi>Chelſey,</hi> 
+                  <date>
+                     <hi>July</hi> 21/31 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="answer_to_memorial">
+            <pb n="9" facs="tcp:179190:5"/>
+            <head>HIS <hi>MAJESTIES</hi> ANSWER To the fore-going MEMORIAL.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Ambaſſador of the United Provinces having ſo particular<g ref="char:EOLhyphen"/>ly ſet down the Anſwers he re<g ref="char:EOLhyphen"/>ceived from Us in his ſeveral Audiences to his particular de<g ref="char:EOLhyphen"/>mands; albeit We think he may well acquieſce with the ſame, yet ſince he hath thought fit by his Memorial, to deſire an Anſwer in writing, We are very well pleaſed to ſatisfie him herein, that the States General may ſee the ſincerity of Our proceedings towards them.</p>
+            <p>Concerning the preparations and proviſion of Veſ<g ref="char:EOLhyphen"/>ſels of War, it is notoriouſly known; that in the be<g ref="char:EOLhyphen"/>ginning of this year We gave order for the providing a leſs guard of Ships for the Summer, then hath been ſet out any year ſince our happy Reſtoration for that ſeaſon, believing Our Self to be in ſo good Intelligence with all Our Neighbours<g ref="char:punc">▪</g> that We might well <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:179190:6"/>charge; when Our Parliament, upon the cry of the whole Nation, with ſome earneſtneſs preſſed Us to take an extraordinary way to repair Our people, for the many and daily injuries they ſuſtained from the Subjects of the United Provinces by depredations at Sea, in other places as well as in the <hi>Eaſt-Indies,</hi> in which there were ſome circumſtances of that preſumption, in declaring their Dominion and inhibiting of Commerce againſt the Law of Nations, as all Princes are equally concerned therein with Us; We made no other anſwer to Our Parliament, then that We made no doubt but that Our good Allies, the States of the United Provinces, to whom in truth the injuries ſuſtained could not reaſo<g ref="char:EOLhyphen"/>nably (We thought) be imputed, would cauſe juſtice to be done; in order to which, We would appoint Our Miniſter reſiding there to make a repreſentation and complaint. For which temper and moderation (when it may be, another reſolution, conſidering the nature of the provocations, would have been more agreeable to the deſires of Our Parliament) We expected the thanks of Our good Neighbours, when on the contrary they no ſooner received advice of this Anſwer returned by Us, then in a very extraordinary manner they gave direction for the preſent ſetting out of a very great num<g ref="char:EOLhyphen"/>ber of Ships of War, without any other viſible cauſe then to manifeſt to the world how much they defied Us and Our Parliament. Upon all which, as We ſhould have been thought to have had very little fore<g ref="char:EOLhyphen"/>ſight for our Honour or Intereſt, if We had not pre<g ref="char:EOLhyphen"/>pared a conſiderable Fleet for Our defence, (the charge and expence whereof We would have been very glad to have prevented) ſo the ſame being prepared, it will be thought a very ſtrange propoſition<g ref="char:punc">▪</g> that it be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:179190:6"/>kept within the Ports; and it will be found by their demeanour, that their Inſtructions are not to do any in<g ref="char:EOLhyphen"/>jury to Our Neighbours and Friends, but to defend Our Self, Our Dominions and Our Subjects from receiving injuries from Our enemies. Nor in truth can we believe or imagine, that the United Provinces (from whom We have deſerved well, and with whom We are ready to maintain a faſt friendſhip, to which many other con<g ref="char:EOLhyphen"/>ſiderations, beſides that great one of the Proteſtant Religion, ſhould diſpoſe both of Us) will deny to do Us juſtice upon Our reaſonable demands, or that they will ever ſacrifice the Peace of their Country for the ſupport of the miſcarriages of particular perſons, or a particular Company, who We find by experience more conſiders their own profit and intereſt, then the honour or ſafety of the Government under which they live; which the States General will well weigh and conſider.</p>
+            <p>As We did with great frankneſs, and as an everlaſt<g ref="char:EOLhyphen"/>ing manifeſtation of Our affection and kindneſs, con<g ref="char:EOLhyphen"/>clude the late Treaty with the United Provinces, by which many very memorable diſcourteſies and injuries to Our Self and Our people, and particularly that of <hi>Amboyna,</hi> were put in oblivion; So We have moſt ex<g ref="char:EOLhyphen"/>actly obſerved every Article on Our part, and have no ſooner been moved in any particular, in which the Sub<g ref="char:EOLhyphen"/>jects of the United Provinces have been grieved, then We have given order for their redreſs, in the moſt ex<g ref="char:EOLhyphen"/>pedite way, without putting them to thoſe formalities which are uſual in Courts of Juſtice: whereas We are very ſory to ſay, that upon all the complaints made at the <hi>Hague</hi> by Our Miniſter, in which the matter of Fact hath been moſt notorious and convincing, and the Right
+<pb n="12" facs="tcp:179190:7"/>moſt apparent, redreſs hath not been given to any one and ſuch delayes uſed in all, as are upon the matter, and in the conſequence of it, a plain denial of Juſtice, which brings every day great complaints to Us from Our Sub<g ref="char:EOLhyphen"/>jects of all parts: Notwithſtanding all which, We have not to this day granted one Letter of Mart upon the Subjects of the United Provinces.</p>
+            <p>Concerning Captain <hi>Holmes,</hi> We have with great ſincerity aſſured the Ambaſſador, that he had no Com<g ref="char:EOLhyphen"/>miſſion to take <hi>Capo Verde,</hi> nor any other place belong<g ref="char:EOLhyphen"/>ing to the Dutch, or to do any Act of Hoſtility upon any of the Subjects of the United Provinces, that was not for the defence of Our Subjects and their Trade in<g ref="char:EOLhyphen"/>to thoſe parts: And we cannot but expect, that this Our free Declaration ſhould find more credit with Our Allies, then any informations or examinations of Ma<g ref="char:EOLhyphen"/>riners and Sea-men, who ſeldom know what they in<g ref="char:EOLhyphen"/>form. We expect the ſaid Captain <hi>Holmes</hi> his arrival here every day, and will then, upon due enquiry into all that he hath done, determine what is juſt. The Ships at preſent deſigned for thoſe parts are Ships of Trade, and have neither power nor will to wrong the Subjects of the United Provinces. But we are very heartily ſor<g ref="char:EOLhyphen"/>ry to hear, not from general rumour, or the looſe diſcour<g ref="char:EOLhyphen"/>ſes of hear-ſayes, but from the pregnant evidence and full information of Our Governour of Our Fort of <hi>Cor<g ref="char:EOLhyphen"/>mantine,</hi> That about the end of <hi>January</hi> laſt, the Commanders of the Ships belonging to the Dutch <hi>Weſt-India</hi> Company, after many aſſaults upon Our Mer<g ref="char:EOLhyphen"/>chants Ships in thoſe Seas, and forbidding and reſtrain<g ref="char:EOLhyphen"/>ing them from Trade, did ſtir up and hire the King of <hi>Fantine</hi> to aſſault and ſurprize that Our Caſtle of <hi>Cor<g ref="char:EOLhyphen"/>mantine,</hi>
+               <pb n="13" facs="tcp:179190:7"/>and to put the ſame into their hands for the price of ſixty <hi>Bendys,</hi> whereof one half was payd down by the ſaid Dutch Commanders, with this condition likewiſe, that the ſaid Natives ſhould enjoy to them<g ref="char:EOLhyphen"/>ſelves all the plunder of that Our ſaid Caſtle. In pur<g ref="char:EOLhyphen"/>ſuance of which infamous Contract, and the better to enable them to perform the ſame, the Dutch Com<g ref="char:EOLhyphen"/>manders ſupplied the ſaid King of <hi>Fantine</hi> with a good quantity of Muskets, Powder and Cartages; whereof Our Commander having notice, by the bleſſing of God ſurprized the ſame: which it may be is one of thoſe Acts of Hoſtility whereof mention is made in this Me<g ref="char:EOLhyphen"/>morial, We having no notice of any other. Two Men of War, belonging to the Dutch Company, came from the <hi>Mina</hi> to <hi>Cape Coaſt</hi> to attend this enterprize at the time appointed, and accordingly the King of <hi>Fan<g ref="char:EOLhyphen"/>tine</hi> upon the fifth day of <hi>February</hi> laſt came with five hundred men in hope to have ſurprized Our Caſtle; but finding himſelf diſcovered, and forced ro retire with ſome loſs, he advanced again the next day with a Body of three thouſand men, and continued a ſharp fight with Our men for the ſpace of four hours, after which time he was beaten off with great loſs, and hath ſince with ſhame and ſorrow acknowledged his breach of faith to<g ref="char:EOLhyphen"/>wards Us, and declared the motives and Contract afore<g ref="char:EOLhyphen"/>ſaid; the Dutch Ships at the ſame time driving a ſmall Ship belonging to Our Merchants under the command of Captain <hi>Borthwick</hi> into Our Port <hi>Inaſhange,</hi> anchored by him, hindred all the Canoes from coming on board him, and took his Boat and five men, which they would not reſtore till they found their other enterprize had miſcarried. We cannot in any degree doubt that the States of the United Provinces will manifeſt their
+<pb n="14" facs="tcp:179190:8"/>deteſtation of this perfidious deſign, and cauſe exem<g ref="char:EOLunhyphen"/>plary Juſtice to be done upon the Perſons guilty of it, which We expect and require; and that inſtead of ſend<g ref="char:EOLhyphen"/>ing Ships of War to juſtifie theſe unwarrantable and ſcandalous proceedings, (which would be attended with ill effects, and would inſenſibly produce a War between the two Nations, which we deſire to prevent) their Wiſdoms will reprehend and warn their <hi>Weſt-India</hi> Company, that they hereafter forbear thoſe outrages, and that they do not preſume under the ſtile of Mer<g ref="char:EOLhyphen"/>chants to uſurp the Prerogative of Princes, and aſſume ſuch a Dominion to themſelves, as if it were in truth veſted in them, would not warrant them to inhibit Traffique and Commerce with their Neighbours, but muſt incenſe all Chriſtian Princes againſt their pre<g ref="char:EOLhyphen"/>ſumption.</p>
+            <p>Concerning the Reformed Churches in the valleys o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Piedmont,</hi> towards whom We have expreſſed Our com<g ref="char:EOLhyphen"/>paſſion and charity in a contribution ſince Our happy Reſtoration, as We will be alwayes ready to relieve and protect the afflicted ſtate of any Proteſtant Churches to Our Power; We being not fully informed of their con<g ref="char:EOLhyphen"/>dition, or the grounds of their late ſufferings, know not what more to do, then to deſire the moſt Chriſti<g ref="char:EOLhyphen"/>an King to uſe his mediation, which We doubt not but he will do upon the deſire of Our Ambaſſador in Ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> name, and acccording to Our directions.</p>
+            <p>We are exceedingly afflicted for thoſe places withi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Dominions of the United Provinces which are <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſent infected with the Plague, and do heartily pray to God that he will ſpeedily withdraw that his Viſita<g ref="char:EOLhyphen"/>tion from them, and in the mean time do in a great degree
+<pb n="15" facs="tcp:179190:8"/>ſuffer with them, by the ſuſpending that Traffique and Commerce which is ſo much for the good of both Nati<g ref="char:EOLhyphen"/>ons: But it cannot be expected or deſired, that We will neglect or decline that provident care of Our People which is due to them, in uſing all poſſible means to pre<g ref="char:EOLhyphen"/>ſerve them from that Contagion, which cannot be done without ſuch reſtraints, which are for the preſent with great loſs and damage to both People, and to which We hope the goodneſs of God will ſhortly put a period, by making the correſpondence as ſafe and wholſome as it hath been, and reſtoring perfect health to the places now infected, as well as to their Neighbours, who can<g ref="char:EOLhyphen"/>not but in a degree ſuffer with them, though they are not under the ſame calamity.</p>
+            <p>We having now complyed with the Ambaſſadors de<g ref="char:EOLhyphen"/>ſires, in giving this particular Anſwer in writing to his Memorial, and to all that he hath propoſed to Us, We make no queſtion but he will faithfully tranſmit the ſame to Our good Friends and Allies the United Pro<g ref="char:EOLhyphen"/>vinces; and We deſire him the ſaid Ambaſſador to aſſure them, that We are ſo firmly reſolved to maintain a firm Amity and Friendſhip with them, that a War (by the bleſſing of God) cannot fall out between Us, except they depart from all Rules of Juſtice, and ſuffer their Subjects to involve them in a War to ſupport the wrong they do their Neighbours againſt all Right; which we are moſt confident they will never be induced to do, and which miſchief (of which no man can foreſee the end) their great Wiſdoms will prevent.</p>
+            <closer>
+               <signed>CHARLES R. By His <hi>Majeſties</hi> Command,</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
